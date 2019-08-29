@@ -48,7 +48,8 @@ PRODUCT_PACKAGES += \
 
 # Long screenshot
 PRODUCT_PACKAGES += \
-    Longshot
+    Longshot \
+    MarkupGoogle
 
 # Additional apps
 PRODUCT_PACKAGES += \
