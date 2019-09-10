@@ -52,7 +52,8 @@ PRODUCT_PACKAGES += \
     MarkupGoogle \
     Music \
     Via \
-    Gallery2
+    Gallery2 \
+    SnapdragonCamera2
 
 # Additional apps
 PRODUCT_PACKAGES += \
